@@ -7,7 +7,7 @@ function creatheart(){
     heart.style.animationDuration = Math.random() *2+3+"s";
     
     
-    heart.innerText = "Sohan 💙 Nusrat";
+    heart.innerText = "Joy 💙 Shirina";
 
 
 
